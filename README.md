@@ -1,4 +1,4 @@
-# resume-screening-app
+# Resume Screening App
 # Resume Ranking System  
 
 ### Overview  
