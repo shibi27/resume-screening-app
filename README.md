@@ -1,22 +1,22 @@
-# resume-screening-app
-# 🤖 Resume Ranking System  
 
-### 🚀 Overview  
+# Resume Ranking System  
+
+### Overview  
 The **Resume Ranking System** is a smart Streamlit-based web app that evaluates and ranks candidates based on their **generated scores**.  
-It visualizes candidate performance, filters by score, and automatically determines whether each candidate is **Selected ✅** or **Not Selected ❌**.
+It visualizes candidate performance, filters by score, and automatically determines whether each candidate is **Selected** or **Not Selected**.
 
 ---
 
-### 🧠 Features  
-- 📤 Upload candidate score files (`.csv`)  
-- 📊 Interactive score visualization  
-- 🎯 Automatic selection status (based on score threshold)  
-- 🔎 Filter candidates by score range  
-- 🏆 Real-time ranking dashboard  
+### Features  
+- Upload candidate score files (`.csv`)  
+- Interactive score visualization  
+- Automatic selection status (based on score threshold)  
+- Filter candidates by score range  
+- Real-time ranking dashboard  
 
 ---
 
-### 💡 Tech Stack  
+### Tech Stack  
 | Component | Technology Used |
 |------------|----------------|
 | Frontend UI | Streamlit |
@@ -26,7 +26,7 @@ It visualizes candidate performance, filters by score, and automatically determi
 
 ---
 
-### ⚙️ Installation  
+### Installation  
 
 ```bash
 
