@@ -8,7 +8,8 @@ import json
 import os
 from io import StringIO
 
-genai.configure(api_key="AIzaSyAThEZTThxF_FAl8beZtpAiS8_MSWdK8rw") 
+
+genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
 
 st.set_page_config(page_title="Resume Screener & Ranking System", layout="wide", page_icon="🤖")
 
